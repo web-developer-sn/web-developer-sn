@@ -28,6 +28,11 @@ Building scalable web applications with clean architecture & modern UI.
 - Tailwind CSS
 - Bootstrap
 - Material UI / Joy UI
+- Ag Grid
+- Framer motion
+- React spring
+- React form hook
+- Redux
 
 ### ⚙️ Backend
 - Node.js
@@ -36,7 +41,8 @@ Building scalable web applications with clean architecture & modern UI.
 
 ### 🗄️ Database
 - MongoDB
-- SQL (Basic)
+- SQL
+- Mysql
 
 ### 🔧 Tools & Others
 - Git & GitHub
@@ -85,8 +91,7 @@ Role-based access system with Admin, Principal, Teachers & Library module.
 ## 🤝 Let's Connect
 
 - 💼 Open for MERN Stack / React / Node.js opportunities
-- 📧 Add your email here
-- 🔗 LinkedIn: Add your LinkedIn link here
+- 🔗 https://www.linkedin.com/in/satendra-sn
 
 ---
 
