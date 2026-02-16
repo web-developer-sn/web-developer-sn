@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SN</h1>
+<h1 align="center">Hi 👋, I'm SATENDRA </h1>
 <h3 align="center">MERN Stack Developer | React.js | Next.js | Node.js | MongoDB</h3>
 
 <p align="center">
